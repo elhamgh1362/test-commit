@@ -4,4 +4,4 @@ hello linera
 
 Hello Line̲ra! 🚀  
 
-This repository is created for testing purposes to complete Galxe Developer Role requirements.  
+This repository is created for testing purposes to complete Galxe Developer Role requirement.  
